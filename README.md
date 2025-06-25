@@ -10,6 +10,8 @@
 
 ---
 
+Obs: tanto os arquivos .csv's quanto o modelo de KNN excedem o limite de 100 MB por arquivo do GitHub. Para manter o repositório enxuto e facilitar o clone, hospedamos os mesmos em um link externo: https://drive.google.com/drive/folders/1tehJnQhrOUHx2kZopEA8rA3RXCma0BJm?usp=sharing
+
 ## 0. Estrutura de Pastas
 
 ```text
